@@ -1,0 +1,632 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 498,
+    "sha256": "aba27eba2cbef165ea579e4dfb9c596c09642882ded833a4d67cad1abd98940c"
+  },
+  {
+    "path": "production/404.html",
+    "bytes": 29838,
+    "sha256": "10d5625a68eb3c8c6864b59ea6cac9d14c6fdc390b9910c4cab352f54f111f9f"
+  },
+  {
+    "path": "production/robots.txt",
+    "bytes": 69,
+    "sha256": "a3240a3ead967b8e6c323625328c5293a838ec73758487dde712abfec360f8c2"
+  },
+  {
+    "path": "production/sitemap.xml",
+    "bytes": 2607,
+    "sha256": "d4620a47b005135fbf54232ea5e6648ebedcf4ad9c783fa216a7446c0ed9c186"
+  },
+  {
+    "path": "production/.nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "production/index.html",
+    "bytes": 54161,
+    "sha256": "85e24fffa56ad2591f74a285051035e301af2fa0301bc2282499036fc54c309d"
+  },
+  {
+    "path": "source-archive/actualpay-hero-original.mp4",
+    "bytes": 6459008,
+    "sha256": "6af9a5368f126aaff249a30d9c1d2694de25562541c7423a3d1f124836f1c688"
+  },
+  {
+    "path": "project-docs/ACTUALPAY_OWNER_APPROVAL_CHECKLIST.md",
+    "bytes": 1166,
+    "sha256": "f8cb36aa6689620ed2daa32c3cff757060d5c4c09fa6bf906731dd5788dc7063"
+  },
+  {
+    "path": "project-docs/ACTUALPAY_IMAGE_AUDIT.md",
+    "bytes": 14076,
+    "sha256": "925ef0b6af35488b7e629995b64fc50b4a09c79f632568eb50019dd95d2770f3"
+  },
+  {
+    "path": "project-docs/LINK_AUDIT.md",
+    "bytes": 6784,
+    "sha256": "4585f3ea02ee3b5b85e57411e82486a0fc19da2717726da017844cb950ed83ff"
+  },
+  {
+    "path": "project-docs/ACTUALPAY_CHANGELOG.md",
+    "bytes": 1044,
+    "sha256": "3ed745c4cc0752a51c5aac8acdf4113e59a23aecb0bc88c0c6f0a5835f39ad7e"
+  },
+  {
+    "path": "project-docs/CONTENT_MIGRATION.md",
+    "bytes": 9532,
+    "sha256": "e2816ea04e8e30106a97689dee6e80c05531cb3162de854fbee9b6b45000c7d5"
+  },
+  {
+    "path": "project-docs/QA_REPORT.md",
+    "bytes": 17847,
+    "sha256": "2eba6627eae9dc3e7436d3f21f0fc566e2603d31fd05741d5970dd9da7925672"
+  },
+  {
+    "path": "project-docs/SEO_REPORT.md",
+    "bytes": 15771,
+    "sha256": "a358a4016bfb4389ce5aa08d6ad3d7026571abfae9c79b78c2d5477aa3835a0c"
+  },
+  {
+    "path": "project-docs/PERFORMANCE_REPORT.md",
+    "bytes": 6689,
+    "sha256": "d60abce01fbf903f6bda48432f1ef43abcb415d4863ff4f53cbcd601fb4b7654"
+  },
+  {
+    "path": "project-docs/DEPLOYMENT_NOTES.md",
+    "bytes": 9612,
+    "sha256": "005ca6104c5c108c8bd1a7c373fe4efa1ce7cbe44b2b59dc9d64b17420b01e64"
+  },
+  {
+    "path": "project-docs/ACTUALPAY_IMAGE_LICENCE_REGISTER.md",
+    "bytes": 8034,
+    "sha256": "695b30d102b83008c2c40e0792a27a60590ce985766d7fec8269d3a03eee9300"
+  },
+  {
+    "path": "project-docs/ACTUALPAY_DEPLOYMENT_CLEANUP_REPORT.md",
+    "bytes": 679,
+    "sha256": "26d11368578f2ece6ec49ea3b476bd1f3bf10522835b16601978ba3e44760a6f"
+  },
+  {
+    "path": "project-docs/ACTUALPAY_FINAL_QA_REPORT.md",
+    "bytes": 2841,
+    "sha256": "811de7813d64d748d6161a1e7758cd31e7cd4b370ef387083f31e86b2a6eda7c"
+  },
+  {
+    "path": "project-docs/link-audit.csv",
+    "bytes": 828764,
+    "sha256": "0ab83955b0193057c4e7408096a9cc600cf0514f0cc9103e0455232764a54b0e"
+  },
+  {
+    "path": "project-docs/ACTUALPAY_IMAGE_REPLACEMENT_REPORT.md",
+    "bytes": 6030,
+    "sha256": "7e5d6ea48bd45e440c5a9ae25030b0f014d81bb1862451eae1d29bb4187d1a0c"
+  },
+  {
+    "path": "production/affordable-payroll-outsourcing-services-uk/index.html",
+    "bytes": 43881,
+    "sha256": "5381b1e1ba422837216dc3aba710fa889f9652dca5fecb075ef495d953631cae"
+  },
+  {
+    "path": "production/bookkeeping-services-2/index.html",
+    "bytes": 35768,
+    "sha256": "558d8169d630c5fe921b70d636d89c878136fe65b80c197224a35c4704224af3"
+  },
+  {
+    "path": "production/service-sector/index.html",
+    "bytes": 37545,
+    "sha256": "ab65874814218a013d282a915fb2a633dc1e68c11804e9c86cee80c539c3a05c"
+  },
+  {
+    "path": "production/pension-and-auto-enrolment-support/index.html",
+    "bytes": 47924,
+    "sha256": "df2ae5207434e07ad395a559bb13f4e8f9ee7313073ebbdc72de061254e00dce"
+  },
+  {
+    "path": "production/privacy-policy/index.html",
+    "bytes": 37237,
+    "sha256": "4436ccd5c53ee75f14d1c2f77914329a0b79ed245e74d1128ae7622d87b20af3"
+  },
+  {
+    "path": "production/benefits-of-white-label-payroll-processing/index.html",
+    "bytes": 44282,
+    "sha256": "a5f405f538995932fdd28328db8b04002f301706f07acc8fc71303edabf97df9"
+  },
+  {
+    "path": "production/testimonials/index.html",
+    "bytes": 34230,
+    "sha256": "81609f347b4bf38f649108fe44eb37a8b830037c2e52e491251bcafa9836d1ae"
+  },
+  {
+    "path": "production/payroll-bureau-services/index.html",
+    "bytes": 47476,
+    "sha256": "8ecfeb9db4f01c6f1f9b2ebccf6edfab85aa67085033420c043e97ed7c3bd3d7"
+  },
+  {
+    "path": "production/payroll-for-accountants/index.html",
+    "bytes": 47442,
+    "sha256": "a11c5a1d3a0ef78d6088746c44bae84fb00770b56f9bf1a7712504224e39470f"
+  },
+  {
+    "path": "production/hmrc-autumn-budget-2024/index.html",
+    "bytes": 42579,
+    "sha256": "3064a0cbe9bfa51365b1ab6b0f87db0ee888a2f79790f6b507db149fd6a2952d"
+  },
+  {
+    "path": "production/cis-payroll-services/index.html",
+    "bytes": 49351,
+    "sha256": "517f2e538d2c385d13e0b9e32d425d1a118931126f1d0589058ca72777a3b0a3"
+  },
+  {
+    "path": "production/payroll-services/index.html",
+    "bytes": 36194,
+    "sha256": "53725866c7a803f3cefe70c587ef73d82f94064e2e13b0dba97e8a140099fda3"
+  },
+  {
+    "path": "production/services/index.html",
+    "bytes": 53443,
+    "sha256": "0b97b5d762f7a5ee08725bce5b27b25ba6357081f57e6dd46598378ad2ba1be9"
+  },
+  {
+    "path": "production/the-importance-of-professional-accounting-services/index.html",
+    "bytes": 42268,
+    "sha256": "55514fded719df61f73bd842de2c2a209cdb791abf241fd97e3c1bc14b83112c"
+  },
+  {
+    "path": "production/unlock-exclusive-discounts-on-uk-payroll-services-this-black-friday-and-cyber-monday/index.html",
+    "bytes": 42855,
+    "sha256": "c862f464bf1980affa2f81e9b0cbf6018cb1771bc330d70206a2eeb407404cc1"
+  },
+  {
+    "path": "production/faq/index.html",
+    "bytes": 43138,
+    "sha256": "2fbe3aff6886f7eca525a3b6022bb077b653c44bec2255cb241795d757d18d8d"
+  },
+  {
+    "path": "production/p11d-and-psa-services/index.html",
+    "bytes": 49696,
+    "sha256": "b8cd2b0dac0a1a0a647954474d203c459a48fec76bdd8292affebce676bed853"
+  },
+  {
+    "path": "production/payroll-outsourcing-service/index.html",
+    "bytes": 47710,
+    "sha256": "40cf3354c63f0dda0dbd373c3c7d429382ba43d79824902b1ab71370f988d5b7"
+  },
+  {
+    "path": "production/emergency-payroll-processing-services/index.html",
+    "bytes": 47243,
+    "sha256": "c40770246e8b45087381999d9f9ce9d8a62ee8f18a7733a58185f48188d1975c"
+  },
+  {
+    "path": "production/understanding-uk-payroll-statutory-payments/index.html",
+    "bytes": 44103,
+    "sha256": "a43bc9d4a9ff42b572460d70fc753bf9f626f5967e921ca100c0b777f9700c40"
+  },
+  {
+    "path": "production/blog/index.html",
+    "bytes": 43056,
+    "sha256": "4eb0fbeaabccdf970c9f4eb17905272fb1e895f5bc133e431203ff0faf8cad28"
+  },
+  {
+    "path": "production/contact/index.html",
+    "bytes": 38060,
+    "sha256": "22103a480d6aeca4320b2aeb81e10a9f234610b364e78b00753fcc99edcfa2f8"
+  },
+  {
+    "path": "production/why-bookkeeping-services-are-essential-for-your-business/index.html",
+    "bytes": 41752,
+    "sha256": "696208f85d8b245d712c2ae79de0913af1eed3dec2d44d040d146a3b193bd798"
+  },
+  {
+    "path": "production/the-ultimate-guide-to-payroll-services/index.html",
+    "bytes": 44386,
+    "sha256": "9c96e3f4161cd0b3584dab3547e0b396e1522d672d00a0ca743bdaea34d3cb32"
+  },
+  {
+    "path": "production/white-label-payroll-processing-services/index.html",
+    "bytes": 47367,
+    "sha256": "3d340e6150f6dcc6571d0ae363b11b7fef8e393795982adb3133d7ccf88f628f"
+  },
+  {
+    "path": "production/get-a-quote/index.html",
+    "bytes": 37539,
+    "sha256": "7796f11115dcd4cac79aa5311c15107835fa063d90a1a3a61c00cb07e6bc7dce"
+  },
+  {
+    "path": "production/about-actualpay/index.html",
+    "bytes": 41240,
+    "sha256": "91eae8b5e477673930b3797c62bbcd38779ad364e7d4751451eb45461d0512b3"
+  },
+  {
+    "path": "production/what-are-white-label-payroll-services/index.html",
+    "bytes": 42511,
+    "sha256": "1d9f39246a9ad2964c61e685e076b82c511facc4c012eb393d80ebe89a1c0b29"
+  },
+  {
+    "path": "production/category/white-label-payroll/index.html",
+    "bytes": 35946,
+    "sha256": "31684369db98a49c4187e72d3922b258c1acb9d68a4368e1c118945c0a7b3ac5"
+  },
+  {
+    "path": "production/category/bookkeeping/index.html",
+    "bytes": 34869,
+    "sha256": "3f06323a1b68f528320da83f26f93266b7ca52df7f5c866a4726571f563c9770"
+  },
+  {
+    "path": "production/category/payroll/index.html",
+    "bytes": 34628,
+    "sha256": "1f60cfd2986c7455be7caa1f83d093ca053f1b55e178c316d8fd99d21dddfb2d"
+  },
+  {
+    "path": "production/category/accounting/index.html",
+    "bytes": 40065,
+    "sha256": "bbfa1c8c31870c812e3ce5b2ae6189c758f42443a3210a401204f7a1083948a7"
+  },
+  {
+    "path": "production/assets/images/team-review-card.webp",
+    "bytes": 33000,
+    "sha256": "3dc5db874eea713e0aac99feeb3b27fdb8e6a939023e647517c33bb2ea99874e"
+  },
+  {
+    "path": "production/assets/images/white-label-benefits-card.webp",
+    "bytes": 24228,
+    "sha256": "4d1852dd83823aaa36e6ab3b5f27d9f35d7a6df3655feea688ffa9565c5d799c"
+  },
+  {
+    "path": "production/assets/images/favicon.svg",
+    "bytes": 347,
+    "sha256": "02f9bb27f115fabc15f785139821847ee9bdd291875513729e0d9b6df651260d"
+  },
+  {
+    "path": "production/assets/images/actualpay-og.jpg",
+    "bytes": 68150,
+    "sha256": "1ce2d478c6cb20239750e546e3ae2465e17c8efb1b4933e9f120995a5ffc57ea"
+  },
+  {
+    "path": "production/assets/images/p11d-og.jpg",
+    "bytes": 87746,
+    "sha256": "6c4e5765f300203ea18e2d0c7ab780132da77161227c48cd3788ea768e5667eb"
+  },
+  {
+    "path": "production/assets/images/about-og.jpg",
+    "bytes": 67797,
+    "sha256": "bcc6bbb4581834dde22298d1412cd36c64378caed9642040ce22d53e8c3552fd"
+  },
+  {
+    "path": "production/assets/images/statutory.webp",
+    "bytes": 45818,
+    "sha256": "7b610c3d929c35b1ac126e91fc650134066c46d283cc2ab980a527c468a97076"
+  },
+  {
+    "path": "production/assets/images/ultimate-guide.webp",
+    "bytes": 65242,
+    "sha256": "f2b8a323725135c23b472fb806c71f8256b9fe310280149ba55f68e0b05d07a9"
+  },
+  {
+    "path": "production/assets/images/white-label-card.webp",
+    "bytes": 19212,
+    "sha256": "7ce6d6630d5d31c8f1e0d3246fa4908ce478ead0bdee2925592d6c6a3fce81c3"
+  },
+  {
+    "path": "production/assets/images/pension-og.jpg",
+    "bytes": 72877,
+    "sha256": "aa897b685eaa22d6fcc462d25cc10d94c41ec4741959ca6cc801cc095551f8b6"
+  },
+  {
+    "path": "production/assets/images/consultation-og.jpg",
+    "bytes": 58906,
+    "sha256": "941ce34405012291673876364230631e71d5b591f225f3f0632d2d32608f9ee3"
+  },
+  {
+    "path": "production/assets/images/accountants-og.jpg",
+    "bytes": 81934,
+    "sha256": "80a90820eca533a370608966ca801f03a677d5b57f0d45291034e859aa91c3c4"
+  },
+  {
+    "path": "production/assets/images/black-friday-card.webp",
+    "bytes": 15192,
+    "sha256": "5e1d59d7073554ef0e002c0dde092c0c5785bbdfad47f5e6b280098c27ee863f"
+  },
+  {
+    "path": "production/assets/images/emergency-card.webp",
+    "bytes": 25956,
+    "sha256": "8e212079731660a794f792d3b6f332fdf8a8164d35013916b4b899e2acde679a"
+  },
+  {
+    "path": "production/assets/images/budget-card.webp",
+    "bytes": 22826,
+    "sha256": "6c17d134936b956d95f81d39882d6112c748aa5af11ca5ffbd9bc62591b1f3b5"
+  },
+  {
+    "path": "production/assets/images/cis-og.jpg",
+    "bytes": 75743,
+    "sha256": "839a8249113af4aa26958977352ad41999dccf9dc1cc22c950d0e79ca73a9c07"
+  },
+  {
+    "path": "production/assets/images/white-label-benefits-og.jpg",
+    "bytes": 71325,
+    "sha256": "4969315d4c82859333358d3c2a4534f9a4c8a40522fe44fabc551071e1142c49"
+  },
+  {
+    "path": "production/assets/images/actualpay-hero-poster.webp",
+    "bytes": 94558,
+    "sha256": "10308a7dad96a11ef9d742ffe5a0e38dfd5364d3ef844e9c8866d472446a0506"
+  },
+  {
+    "path": "production/assets/images/about-card.webp",
+    "bytes": 22312,
+    "sha256": "ce5b9d9b3e626d7c395213ec53402b83354b499ea420c95efa4f32b8e3024ed3"
+  },
+  {
+    "path": "production/assets/images/consultation.webp",
+    "bytes": 29692,
+    "sha256": "47c1f8d1b61dd291fcdee3ed57f329fb4b6984a4287e9c169e392ed28a9f4208"
+  },
+  {
+    "path": "production/assets/images/emergency.webp",
+    "bytes": 51140,
+    "sha256": "01fb53e326ec798d67385a90c8305e48d55ad95ac6d3144faa71a66a82bfb305"
+  },
+  {
+    "path": "production/assets/images/outsourcing.webp",
+    "bytes": 59284,
+    "sha256": "4a928619e12c47cb8b5c1aab1796f05652cd81a3cfa619d19c19499d77a27059"
+  },
+  {
+    "path": "production/assets/images/team-planning-og.jpg",
+    "bytes": 98352,
+    "sha256": "177904e130498ef96b33849fa103d40cccc6c88b7f784648d0f7ce7df2039972"
+  },
+  {
+    "path": "production/assets/images/actualpay-hero-poster-mobile.webp",
+    "bytes": 59976,
+    "sha256": "0aca755cdb7bd20ba7aedff40222cfe05d695de326ad05f90a2331b42329e0aa"
+  },
+  {
+    "path": "production/assets/images/pension-card.webp",
+    "bytes": 24690,
+    "sha256": "291c874c453b443fd5c15a92a1bb5acb0d9772c0c312a041f83727d8a2647e7e"
+  },
+  {
+    "path": "production/assets/images/p11d-card.webp",
+    "bytes": 32246,
+    "sha256": "01e31ec941d85be8b559e8115135e061bda17f865116d60ba74b67b3d4de6b52"
+  },
+  {
+    "path": "production/assets/images/ultimate-guide-og.jpg",
+    "bytes": 92189,
+    "sha256": "635a5798343bc60f3f1431cace5a9752ffbfce78c82fbbb54818b6d22bed6c63"
+  },
+  {
+    "path": "production/assets/images/black-friday-og.jpg",
+    "bytes": 41958,
+    "sha256": "cd8cbb9818529bca1560b052b70b567e937a5f007f4541b5ac19a2a58a094c53"
+  },
+  {
+    "path": "production/assets/images/payroll-detail-og.jpg",
+    "bytes": 79409,
+    "sha256": "4fa85a6c30d7757312b16dff880bd2138c62a48eeb215a72a0d8a5a94ef46b6b"
+  },
+  {
+    "path": "production/assets/images/ultimate-guide-640.webp",
+    "bytes": 24520,
+    "sha256": "53d8ddb0bd7e96c7810c6c7a4bf440a3615a486a0ac4046c750caee474b17d53"
+  },
+  {
+    "path": "production/assets/images/outsourcing-card.webp",
+    "bytes": 31474,
+    "sha256": "aa4b5f2e973e960d2f03e1fe95012a9decfef6655e2d71723ac9daa9addc4a6c"
+  },
+  {
+    "path": "production/assets/images/about.webp",
+    "bytes": 37038,
+    "sha256": "f665b2d8cee1dc3c4908d714b6366549dde9b4ccd92935c120115106e4524ed6"
+  },
+  {
+    "path": "production/assets/images/outsourcing-service.webp",
+    "bytes": 47042,
+    "sha256": "08d710568d40b6568f4c367693645526a4fdf1e272d9580ac3b4737f65857ee4"
+  },
+  {
+    "path": "production/assets/images/accountants-card.webp",
+    "bytes": 30402,
+    "sha256": "e12dd7affcec5a2aeccbf3f934c7329efedf049f1f71c5a095fddcb662c5d778"
+  },
+  {
+    "path": "production/assets/images/team-planning-card.webp",
+    "bytes": 42450,
+    "sha256": "096c219a125992afa39b5d0a8a52a7ab1d8acc3bdd2e75f3bd3f2afa26cd84ea"
+  },
+  {
+    "path": "production/assets/images/outsourcing-service-card.webp",
+    "bytes": 30866,
+    "sha256": "9d59fb4d85e357585701fa5c748ce10c850d4c2d035fe31846f47c14749a2db3"
+  },
+  {
+    "path": "production/assets/images/emergency-og.jpg",
+    "bytes": 80774,
+    "sha256": "2ab52bc31d3111e4ff52911a90240dd2f446630499da1f94a79e7d7e14afdea3"
+  },
+  {
+    "path": "production/assets/images/ultimate-guide-960.webp",
+    "bytes": 46496,
+    "sha256": "8b3646165dfb04969d9051e63823004877ff4204b953471147bf2ec64664ddb2"
+  },
+  {
+    "path": "production/assets/images/outsourcing-og.jpg",
+    "bytes": 86948,
+    "sha256": "d6f872fdd9ad3697a0bfb94e039489566d7b49a651bffdf8d66e93726db3db20"
+  },
+  {
+    "path": "production/assets/images/payroll-detail.webp",
+    "bytes": 46760,
+    "sha256": "8edf6f417d728f1ada5742c20aaf7b3fd67f95e0d00b3d9f21552c5217b5e9bf"
+  },
+  {
+    "path": "production/assets/images/team-planning.webp",
+    "bytes": 66978,
+    "sha256": "ac3fb8cd8655ae5cb8b869ee7fd0fa04d823a05e86dcbe65764c6596672145fc"
+  },
+  {
+    "path": "production/assets/images/black-friday.webp",
+    "bytes": 21948,
+    "sha256": "4aff78caffee8aae622d6a3c7b997a7679f9030b787030a8dab07802dbbf4d20"
+  },
+  {
+    "path": "production/assets/images/consultation-card.webp",
+    "bytes": 18632,
+    "sha256": "60c8b457c8e9cfeabd94480ccc3545942309c4579977b2634a131129460b2ec8"
+  },
+  {
+    "path": "production/assets/images/statutory-og.jpg",
+    "bytes": 76880,
+    "sha256": "9485100ee32a3c8f142885e3ca6125c9a328a8478bb7a6649e156acfdc163a38"
+  },
+  {
+    "path": "production/assets/images/team-review.webp",
+    "bytes": 58588,
+    "sha256": "177a6db6ec8a9162ce7fd2bb87bca1b30ca67f67cfd1e83299fcb8b5a5d644b0"
+  },
+  {
+    "path": "production/assets/images/pension.webp",
+    "bytes": 39132,
+    "sha256": "0e20391bed23856a0b4864b2f252fcf9fabb6b6b0bd5fbdfc9a09eec839a4e36"
+  },
+  {
+    "path": "production/assets/images/bureau-og.jpg",
+    "bytes": 83828,
+    "sha256": "98ef941ce6ee2cf05991ef723a9e07386a8fcabdb6a5dc373b0a3e7eb50cbb76"
+  },
+  {
+    "path": "production/assets/images/white-label.webp",
+    "bytes": 38164,
+    "sha256": "1f6ee162b49fba2bb5a19f3b032ed6b9200afa5e447b3a32a2a2f2c729421c34"
+  },
+  {
+    "path": "production/assets/images/white-label-og.jpg",
+    "bytes": 67815,
+    "sha256": "94596486e8d22414c53babf7b62499078dc38ab8fbef126abbdc8c7260b5df99"
+  },
+  {
+    "path": "production/assets/images/cis.webp",
+    "bytes": 42748,
+    "sha256": "71ae4db55d93067eb345b95fa4d1d503d24d11fc650c57dd241a743b92f408ff"
+  },
+  {
+    "path": "production/assets/images/bureau.webp",
+    "bytes": 54710,
+    "sha256": "d2535a5254f985ba9cfbc384e5080938080787cad357c817143fa8276e52fe7b"
+  },
+  {
+    "path": "production/assets/images/bureau-card.webp",
+    "bytes": 25536,
+    "sha256": "b706f345a5b9e15b3de9041677dc61be0d6b97b1304aa8e0866c134de6c03404"
+  },
+  {
+    "path": "production/assets/images/cis-card.webp",
+    "bytes": 27354,
+    "sha256": "8a4edec46b2305a8553532ff6f954af5d14f7a6bfa8a5469f2143e10e0424198"
+  },
+  {
+    "path": "production/assets/images/statutory-card.webp",
+    "bytes": 27076,
+    "sha256": "eb3aa8d874bdbc9639fa546e6c79fde4ca3e2cfa759043207e1fc569c353da43"
+  },
+  {
+    "path": "production/assets/images/budget.webp",
+    "bytes": 40406,
+    "sha256": "d711ce0cd4d98086fe2f24a105f332b479ec4f7b43133de91676076b4adf8bda"
+  },
+  {
+    "path": "production/assets/images/p11d.webp",
+    "bytes": 52270,
+    "sha256": "dbf85c700b5876ee1fe173047929eee020d3d8ae25304d69cbd4a8c706ef9311"
+  },
+  {
+    "path": "production/assets/images/ultimate-guide-card.webp",
+    "bytes": 37254,
+    "sha256": "bc490665e7d844906bb3babf43a3e87db07f50cc3f05af043964533d123f5d34"
+  },
+  {
+    "path": "production/assets/images/white-label-benefits.webp",
+    "bytes": 38740,
+    "sha256": "e8b63d1534930a9ea2436c3f5f41ab04aa0d0bebf9cea83ee835ec76310ef3c1"
+  },
+  {
+    "path": "production/assets/images/outsourcing-service-og.jpg",
+    "bytes": 81874,
+    "sha256": "db119eca0786dbb34f7e24630ca946b05347c88a0329a40f1c6888576c8ea357"
+  },
+  {
+    "path": "production/assets/images/team-review-og.jpg",
+    "bytes": 89612,
+    "sha256": "d99e9f716766bfae90d364ec79f4c2fbd89ec0d09df82df5f0c27a80ec9383b3"
+  },
+  {
+    "path": "production/assets/images/payroll-detail-card.webp",
+    "bytes": 29616,
+    "sha256": "90d9b9c05668cb87652c476f236df9b58ea137b79031f926a79847d3a9125dca"
+  },
+  {
+    "path": "production/assets/images/accountants.webp",
+    "bytes": 50030,
+    "sha256": "830fc1c1e71c714f3efac27ea63326c4069f2a877343be89121b68f70bfa2512"
+  },
+  {
+    "path": "production/assets/images/budget-og.jpg",
+    "bytes": 64034,
+    "sha256": "4cb579c9a3dfb32d40d974eddf7f1071286feb11e1bf1861db2786fd9d823531"
+  },
+  {
+    "path": "production/assets/css/responsive.css",
+    "bytes": 9112,
+    "sha256": "5ccf7710eff0a6597053718b2d9fad862ce60aec53571110435580c30e94994f"
+  },
+  {
+    "path": "production/assets/css/pages.css",
+    "bytes": 27410,
+    "sha256": "74a439ce2d9254f11f862de79991826fb8b75a1c5ca1b8f187bcf001c3446dc6"
+  },
+  {
+    "path": "production/assets/css/styles.css",
+    "bytes": 7418,
+    "sha256": "9a38723d879fd79e44996c75cae8ee7fe42d0ecb8226bb14879914054ca8a28c"
+  },
+  {
+    "path": "production/assets/css/components.css",
+    "bytes": 32806,
+    "sha256": "1e160a9042ba60650a6fbc90c64a3d1467430790429daf772ae3285f258fa033"
+  },
+  {
+    "path": "production/assets/videos/actualpay-hero.mp4",
+    "bytes": 1557837,
+    "sha256": "adb803f84f687ea5254b89973fe15fe1bc730ba693cb66f1c4162c4e5b6b7159"
+  },
+  {
+    "path": "production/assets/js/navigation.js",
+    "bytes": 5777,
+    "sha256": "8ff33da419c6c16590d3147a55cc9e37315ced8dc5a93885c58e21bf5c8ca71b"
+  },
+  {
+    "path": "production/assets/js/main.js",
+    "bytes": 2700,
+    "sha256": "2c19873571af49f5eeda60365897a36ac708617b73d1a4e777bc80e28b0d08e9"
+  },
+  {
+    "path": "production/assets/js/forms.js",
+    "bytes": 2254,
+    "sha256": "0997d96e9375b57c86b091867585d53fb0e2735d81ae34ab0266571f5edb7a16"
+  },
+  {
+    "path": "production/assets/js/search-data.js",
+    "bytes": 10702,
+    "sha256": "ab3e5c14ffbb58342d88028150d38b3026ef35770fef81f230ec2f00169ede70"
+  },
+  {
+    "path": "production/assets/js/search.js",
+    "bytes": 7119,
+    "sha256": "ecccaf48f5af5a83f3b23c11ca7993c70715ba621f99e9dfcd44251f5a248a6b"
+  }
+]
